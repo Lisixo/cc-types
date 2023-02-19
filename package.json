@@ -1,6 +1,7 @@
 {
   "name": "@lisixo/cc-types",
   "version": "1.0.0",
+  "description": "Computercraft types for typescript-to-lua",
   "author": "Lisixo",
   "license": "MIT",
   "scripts": {
