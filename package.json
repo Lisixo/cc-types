@@ -4,7 +4,8 @@
   "author": "Lisixo",
   "license": "MIT",
   "scripts": {
-    "format": "prettier --write types package.json tsconfig.json"
+    "format": "prettier --write types",
+    "format:all": "prettier --write types package.json tsconfig.json"
   },
   "files": [
     "**/*.d.ts"
