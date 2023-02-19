@@ -14,13 +14,13 @@ npm install --save @lisixo/cc-types
 {
   "compilerOptions": {
     "types": [
-     "@typescript-to-lua/language-extensions",
-     "@lisixo/cc-types"
++     "@typescript-to-lua/language-extensions",
++     "@lisixo/cc-types"
     ]
   }
 }
 ```
-⚠️ _Caution_: Additional installation of `@typescript-to-lua/language-extensions` is recommended.
+⚠️ _Tip_: Additional installation of `@typescript-to-lua/language-extensions` is highly recommended.
 
 <!-- # Additional definitions
 
