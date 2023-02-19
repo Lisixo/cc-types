@@ -15,7 +15,7 @@ npm install --save @lisixo/cc-types
   "compilerOptions": {
 +   "types": [
 +     "@typescript-to-lua/language-extensions",
-+     "@Lisixo/cc-types"
++     "@lisixo/cc-types"
 +   ]
   }
 }
