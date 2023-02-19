@@ -2,10 +2,10 @@
 
 - - - 
 ## Globals
-  - [ ] _G
-  - [ ] colors
-  - [ ] colours
-  - [ ] commands
+  - [x] _G
+  - [x] colors
+  - [x] colours
+  - [x] commands
   - [ ] disk
   - [ ] fs
   - [ ] gps
