@@ -1,4 +1,4 @@
-# Computercraft Types for Typescript
+# Computercraft Types for TypescriptToLua
 
 ![](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge) ![](https://img.shields.io/github/package-json/v/Lisixo/cc-types?style=for-the-badge) ![](https://img.shields.io/badge/Written%20with-Typescript-blue?style=for-the-badge)
 
@@ -7,7 +7,7 @@ This package created for `typescript-to-lua` to create programs for Computercraf
 # Installation
 1. Add package to your project
 ```bash
-npm install --save @Lisixo/cc-types
+npm install --save @lisixo/cc-types
 ```
 2. Add types to `tsconfig.json`
 ```diff
