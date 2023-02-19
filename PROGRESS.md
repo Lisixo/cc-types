@@ -1,4 +1,5 @@
-# Implementations Progress
+# Implementation Progress
+#### Last updated on 11/02/2023
 
 - - - 
 ## Globals
@@ -7,47 +8,47 @@
   - [x] colours
   - [x] commands
   - [ ] disk
-  - [ ] fs
-  - [ ] gps
+  - [x] fs
+  - [x] gps
   - [ ] help
-  - [ ] http
+  - [x] http
   - [ ] io
   - [ ] keys
   - [ ] multishell
-  - [ ] os
+  - [x] os
   - [ ] paintutils
   - [ ] parallel
   - [ ] pocket
-  - [ ] pednet
+  - [x] rednet
   - [ ] redstone
   - [ ] settings
   - [ ] shell
-  - [ ] term
+  - [x] term
   - [ ] textutils
   - [ ] turtle
   - [ ] vector
   - [ ] window
 - - - 
 ## Modules
-  - [ ] cc.audio.dfpwm
-  - [ ] cc.completion
-  - [ ] cc.expect
-  - [ ] cc.image.nft
+  - [x] cc.audio.dfpwm
+  - [x] cc.completion
+  - [x] cc.expect
+  - [x] cc.image.nft
   - [ ] cc.pretty
   - [ ] cc.require
   - [ ] cc.shell.completion
   - [ ] cc.strings
 - - - 
 ## Peripherals
-  - [ ] command
-  - [ ] computer
-  - [ ] drive
-  - [ ] modem
-  - [ ] monitor
-  - [ ] printer
-  - [ ] speaker
+  - [x] command
+  - [x] computer
+  - [x] drive
+  - [x] modem
+  - [x] monitor
+  - [x] printer
+  - [x] speaker
 - - - 
 ## General Peripherals
-  - [ ] energy_storage
-  - [ ] fluid_storage
-  - [ ] inventory
+  - [x] energy_storage
+  - [x] fluid_storage
+  - [x] inventory

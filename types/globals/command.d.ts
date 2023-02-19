@@ -21,7 +21,7 @@ declare namespace command {
     y: number,
     z: number,
     dimension?: string
-  ): any
+  ): any;
   let native: any;
   let async: any;
 }
