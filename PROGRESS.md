@@ -1,5 +1,5 @@
 # Implementation Progress
-#### Last updated on 11/02/2023
+#### Last updated on 22/02/2023
 
 - - - 
 ## Globals
@@ -16,16 +16,17 @@
   - [ ] keys
   - [ ] multishell
   - [x] os
-  - [ ] paintutils
+  - [x] paintutils
   - [ ] parallel
+  - [x] peripheral
   - [ ] pocket
   - [x] rednet
   - [ ] redstone
   - [ ] settings
   - [ ] shell
   - [x] term
-  - [ ] textutils
-  - [ ] turtle
+  - [x] textutils
+  - [x] turtle
   - [ ] vector
   - [ ] window
 - - - 

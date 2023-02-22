@@ -6,8 +6,12 @@
 /// <reference path="./types/globals/gps.d.ts" />
 /// <reference path="./types/globals/http.d.ts" />
 /// <reference path="./types/globals/os.d.ts" />
+/// <reference path="./types/globals/paintutils.d.ts" />
+/// <reference path="./types/globals/peripheral.d.ts" />
 /// <reference path="./types/globals/rednet.d.ts" />
 /// <reference path="./types/globals/term.d.ts" />
+/// <reference path="./types/globals/textutils.d.ts" />
+/// <reference path="./types/globals/turtle.d.ts" />
 
 /// <reference path="./types/modules/cc.audio.dfpwm.d.ts" />
 /// <reference path="./types/modules/cc.completion.d.ts" />
