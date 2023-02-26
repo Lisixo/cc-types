@@ -1,5 +1,5 @@
 # Implementation Progress
-#### Last updated on 22/02/2023
+#### Last updated on 27/02/2023
 
 - - - 
 ## Globals
@@ -27,8 +27,8 @@
   - [x] term
   - [x] textutils
   - [x] turtle
-  - [ ] vector
-  - [ ] window
+  - [x] vector
+  - [x] window
 - - - 
 ## Modules
   - [x] cc.audio.dfpwm
@@ -38,7 +38,7 @@
   - [ ] cc.pretty
   - [ ] cc.require
   - [ ] cc.shell.completion
-  - [ ] cc.strings
+  - [x] cc.strings
 - - - 
 ## Peripherals
   - [x] command

@@ -12,11 +12,14 @@
 /// <reference path="./types/globals/term.d.ts" />
 /// <reference path="./types/globals/textutils.d.ts" />
 /// <reference path="./types/globals/turtle.d.ts" />
+/// <reference path="./types/globals/vector.d.ts" />
+/// <reference path="./types/globals/window.d.ts" />
 
 /// <reference path="./types/modules/cc.audio.dfpwm.d.ts" />
 /// <reference path="./types/modules/cc.completion.d.ts" />
 /// <reference path="./types/modules/cc.expect.d.ts" />
 /// <reference path="./types/modules/cc.image.nft.d.ts" />
+/// <reference path="./types/modules/cc.strings.d.ts" />
 
 /// <reference path="./types/peripherals/command.d.ts" />
 /// <reference path="./types/peripherals/computer.d.ts" />
