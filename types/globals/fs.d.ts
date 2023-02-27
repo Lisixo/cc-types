@@ -119,7 +119,7 @@ declare interface BinaryReadHandle {
   seek(
     whence?: 'set' | 'cur' | 'end',
     offset?: number
-  ): [number] | [null, string];
+  ): LuaMultiReturn<[number] | [null, string]>;
 }
 
 declare interface BinaryWriteHandle {
@@ -128,7 +128,7 @@ declare interface BinaryWriteHandle {
   seek(
     whence?: 'set' | 'cur' | 'end',
     offset?: number
-  ): [number] | [null, string];
+  ): LuaMultiReturn<[number] | [null, string]>;
   flush(): void;
   close(): void;
 }
